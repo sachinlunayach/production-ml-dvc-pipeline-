@@ -1,0 +1,4 @@
+[core]
+    remote = dvcpipeline
+['remote "dvcpipeline"']
+    url = s3://dvc-s3-proj-pipeline
